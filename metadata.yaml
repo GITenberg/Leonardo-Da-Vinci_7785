@@ -1,0 +1,32 @@
+_repo: Leonardo-Da-Vinci_7785
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 7785/7785-h/images/title.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Brockwell, Maurice W.
+    alias: Brockwell, Maurice Walter
+    birthdate: 1869
+    deathdate: 1958
+    gutenberg_agent_id: '2526'
+    url: http://www.gutenberg.org/2009/agents/2526
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7785'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Leonardo, da Vinci, 1452-1519'
+- !lcc 'ND'
+- !lcsh 'Painters -- Italy -- Biography'
+- GITenberg
+title: Leonardo Da Vinci
+url: http://www.gutenberg.org/ebooks/7785
